@@ -46,17 +46,15 @@ The project is developed as a real-world full-stack application using **Node.js,
 ## 🌐 Live Demo
 
 🔗 **Live Application (Replit):**  
-https://replit.com/@2203031050378/UNISMARTFINALPROJECT
+https://replit.com/@2203031050443/123456789/
 
 > The face detection module is included in this repository as a separate Python program.
 
 ---
 
 ## 📸 Screenshots
-
 > _Screenshots of the application will be added here._
 
-<!-- Add screenshots below this line -->
 
 
 ---
